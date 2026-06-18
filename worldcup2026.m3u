@@ -1,0 +1,143 @@
+#EXTM3U
+# English
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-country="UK" group-title="English",BBC One UK
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-country="UK" group-title="English",BBC Two UK
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-country="UK" group-title="English",ITV1 UK
+http://80.194.62.172:50002/stream/channelid/95929545
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-country="US" group-title="English",Fox Sports 1 US
+https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-country="US" group-title="English",Fox Sports 2 US
+https://tvsen7.aynaott.com/foxsports2/index.m3u8
+#EXTINF:-1 tvg-id="KDFW41.us" tvg-country="US" group-title="English",KDFW 4.1 FOX Dallas
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="KMSPDT1.us" tvg-country="US" group-title="English",KMSP FOX 9 Minneapolis
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kmsp-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="KRIV261.us" tvg-country="US" group-title="English",KRIV FOX 26 Houston
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="KTTV111.us" tvg-country="US" group-title="English",KTTV FOX 11 Los Angeles
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="WNYW51.us" tvg-country="US" group-title="English",WNYW FOX 5 New York
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="WTTG51.us" tvg-country="US" group-title="English",WTTG FOX 5 Washington DC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNZ1.nz" tvg-country="NZ" group-title="English",TVNZ 1 New Zealand
+https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
+#EXTINF:-1 tvg-id="TVNZ2.nz" tvg-country="NZ" group-title="English",TVNZ 2 New Zealand
+https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
+#EXTINF:-1 tvg-id="TVNZDUKE.nz" tvg-country="NZ" group-title="English",TVNZ DUKE New Zealand
+https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8
+#EXTINF:-1 tvg-id="SABC1.za" tvg-country="ZA" group-title="English",SABC 1 South Africa
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="SABC2.za" tvg-country="ZA" group-title="English",SABC 2 South Africa
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+
+# Spanish
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-country="US" group-title="Spanish",Telemundo Internacional
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="NBCUniverso.us" tvg-country="US" group-title="Spanish",NBC Universo US
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemundoAlDia.us" tvg-country="US" group-title="Spanish",Telemundo Al Dia US
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+#EXTINF:-1 tvg-id="KVEA521.us" tvg-country="US" group-title="Spanish",KVEA Telemundo 52 Los Angeles
+http://104.238.205.28:9090/278661_.m3u8
+#EXTINF:-1 tvg-id="WNJU471.us" tvg-country="US" group-title="Spanish",WNJU Telemundo 47 New York
+http://104.238.205.28:9090/278678_.m3u8
+#EXTINF:-1 tvg-id="WKAQTV21.pr" tvg-country="PR" group-title="Spanish",WKAQ Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-country="MX" group-title="Spanish",Canal 5 Mexico
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-country="MX" group-title="Spanish",Las Estrellas Mexico
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-country="MX" group-title="Spanish",Azteca Internacional Mexico
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-country="MX" group-title="Spanish",ADN 40 Mexico
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="La1.es" tvg-country="ES" group-title="Spanish",La 1 Spain
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 tvg-id="La2.es" tvg-country="ES" group-title="Spanish",La 2 Spain
+http://92.176.119.180:2095/play/a1fb
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-country="ES" group-title="Spanish",Teledeporte Spain
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-country="ES" group-title="Spanish",TVE Internacional America
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-country="CL" group-title="Spanish",ChileVision Chile
+http://38.250.127.17:9800/play/a05h/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-country="CO" group-title="Spanish",Caracol TV Colombia
+http://138.121.15.230:9002/CARACOL/index.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co" tvg-country="CO" group-title="Spanish",Canal RCN Colombia
+http://138.121.15.230:9002/RCN/index.m3u8
+#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-country="EC" group-title="Spanish",Teleamazonas Ecuador
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Teletica7.cr" tvg-country="CR" group-title="Spanish",Teletica 7 Costa Rica
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-country="AR" group-title="Spanish",TyC Sports Argentina
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+
+# Portuguese
+#EXTINF:-1 tvg-id="CazeTV.br" tvg-country="BR" group-title="Portuguese",CazeTV Brazil
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-id="geFast.br" tvg-country="BR" group-title="Portuguese",ge Fast Brazil
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-country="BR" group-title="Portuguese",Rede Globo Brazil
+https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="SporTV.br" tvg-country="BR" group-title="Portuguese",SporTV Brazil
+https://stm.sinalmycn.com/21000/video.m3u8?token=EkP2qSi13ckjQRLSIDoxI5rMZsF5rZyEYzqWjxD248ScEUPYQ0
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-country="BR" group-title="Portuguese",SBT Interior Brazil
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-country="PT" group-title="Portuguese",RTP 1 Portugal
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-country="PT" group-title="Portuguese",RTP 2 Portugal
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPNoticias.pt" tvg-country="PT" group-title="Portuguese",RTP Noticias Portugal
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC.pt" tvg-country="PT" group-title="Portuguese",SIC Portugal
+https://sic.live.impresa.pt/sic.m3u8
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-country="PT" group-title="Portuguese",SIC Noticias Portugal
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1 tvg-id="TVI.pt" tvg-country="PT" group-title="Portuguese",TVI Portugal
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
+#EXTINF:-1 tvg-id="VPlusTVI.pt" tvg-country="PT" group-title="Portuguese",V+ TVI Portugal
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+
+# German
+#EXTINF:-1 tvg-id="DasErste.de" tvg-country="DE" group-title="German",Das Erste Germany
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-country="DE" group-title="German",ZDF Germany
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-country="DE" group-title="German",3sat Germany
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="ORF2.at" tvg-country="AT" group-title="German",ORF 2 Austria
+https://orf2-247.mdn.ors.at/orf/orf2/qxa-247/manifest.m3u8
+#EXTINF:-1 tvg-id="ORFIII.at" tvg-country="AT" group-title="German",ORF III Austria
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 tvg-id="ServusTV.at" tvg-country="AT" group-title="German",ServusTV Austria
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+
+# French
+#EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" group-title="French",M6 France
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/index-hd720.m3u8
+#EXTINF:-1 tvg-id="Tipik.be" tvg-country="BE" group-title="French",Tipik Belgium RTBF
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/425fb6b1/8a250afc.isml/.m3u8
+
+# Japanese
+#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-country="JP" group-title="Japanese",Nippon TV Japan
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-country="JP" group-title="Japanese",Fuji TV Japan
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+
+# Korean
+# JTBC is listed as the Korean-language 2026 World Cup rights holder, but no JTBC public stream was found in the current iptv-org stream data.
+
+# Russian
+#EXTINF:-1 tvg-id="MatchArena.ru" tvg-country="RU" group-title="Russian",Match! Arena Russia
+http://31.148.48.15/Match_Arena_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchBoets.ru" tvg-country="RU" group-title="Russian",Match! Boets Russia
+http://31.148.48.15/Match_Boec/index.m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-country="RU" group-title="Russian",Match! Igra Russia
+http://31.148.48.15/Match_Igra_HD/index.m3u8
+#EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-country="RU" group-title="Russian",Match! Planeta Russia
+https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8
+#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-country="RU" group-title="Russian",Match! Strana Russia
+http://31.148.48.15/Match_Strana/index.m3u8
